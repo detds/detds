@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! Eu sou o Dennis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-<!--
-**detds/detds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🔭 Em transição de carreira
 
-Here are some ideas to get you started:
+ - 🌱 Estudando desenvolvimento **backend** utilizando linguagem de programação **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔬 Sou curioso; gosto de aprender!
+
+ - 🏃 Amante de corrida
+
+<br>
+
+![Dennis github status](https://github-readme-stats.vercel.app/api?username=detds&count_private=true&card_width=400&hide=contribs,prs&show_icons=true&theme=discord_old_blurple)
+
+<br>
+
+## Tecnologias que utilizo
+
+### Backend
+
+![java](https://img.shields.io/badge/Java-455380?style=for-the-badge&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-455380?style=for-the-badge&logo=spring&logoColor=lawngreen)
+![ache-maven](https://img.shields.io/badge/Apache_Maven-455380?style=for-the-badge&logo=apache-maven&logoColor=red)
+![hibernate-jpa](https://img.shields.io/badge/Hibernate_JPA-455380?style=for-the-badge&logo=Hibernate&logoColor=black)
+
+### Banco de dados
+
+![postgressql](https://img.shields.io/badge/PostgreSQL-455380?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-455380?style=for-the-badge&logo=mongodb&logoColor=seagreen)
+![mysql](https://img.shields.io/badge/MySQL-455380?style=for-the-badge&logo=mysql&logoColor=darkorange)
+![mariadb](https://img.shields.io/badge/MariaDB-455380?style=for-the-badge&logo=mariadb&logoColor=goldenrod)
