@@ -10,11 +10,7 @@
 
 <br>
 
-<div align="center">
- <img align="center" alt="Dennis github status" src="https://github-readme-stats.vercel.app/api?username=detds&count_private=true&card_width=400&hide=contribs,prs&show_icons=true&theme=discord_old_blurple"/>
- &nbsp; &nbsp;
- <img align="center" alt="Dennis github top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=detds&layout=compact&theme=discord_old_blurple"/>
-</div>
+![Dennis github status](https://github-readme-stats.vercel.app/api?username=detds&count_private=true&card_width=400&hide=contribs,prs&show_icons=true&theme=discord_old_blurple)
 
 <br>
 
