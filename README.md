@@ -10,7 +10,8 @@
 
 <br>
 
-![Dennis github status](https://github-readme-stats.vercel.app/api?username=detds&count_private=true&card_width=400&hide=contribs,prs&show_icons=true&theme=discord_old_blurple)
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=480&hide=contribs,prs&locale=pt-br&show_icons=true&custom_title=Estatísticas%20do%20Github%20do%20Dennis&theme=transparent#gh-light-mode-only)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=480&hide=contribs,prs&locale=pt-br&show_icons=true&custom_title=Estatísticas%20do%20Github%20do%20Dennis&theme=discord_old_blurple#gh-dark-mode-only)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
 
 <br>
 
