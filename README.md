@@ -1,4 +1,4 @@
-### Olá! Eu sou o Dennis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Olá! Eu sou o Dennis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
  - 🔭 Em transição de carreira
 
@@ -10,8 +10,15 @@
 
 <br>
 
-[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=480&hide=contribs,prs&locale=pt-br&show_icons=true&custom_title=Estatísticas%20do%20Github%20do%20Dennis&theme=transparent#gh-light-mode-only)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
-[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=480&hide=contribs,prs&locale=pt-br&show_icons=true&custom_title=Estatísticas%20do%20Github%20do%20Dennis&theme=discord_old_blurple#gh-dark-mode-only)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
+## Informações do meu Github
+
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=transparent#gh-light-mode-only)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=transparent&card_width=340&layout=compact)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
+
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=discord_old_blurple#gh-dark-mode-only)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=discord_old_blurple&card_width=340&layout=compact)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
 
 <br>
 
