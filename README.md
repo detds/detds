@@ -12,13 +12,13 @@
 
 ## Informações do meu Github
 
-[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=transparent#gh-light-mode-only)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=transparent#gh-light-mode-only)](#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=transparent&card_width=340&layout=compact)](https://github.com/detds/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=transparent&card_width=340&layout=compact)](#gh-light-mode-only)
 
-[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=discord_old_blurple#gh-dark-mode-only)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
+[![Dennis github status](https://github-readme-stats.detds.vercel.app/api?username=detds&count_private=true&card_width=340&hide=contribs,prs&hide_rank=true&locale=pt-br&show_icons=true&custom_title=Minhas%20estatísticas&theme=discord_old_blurple#gh-dark-mode-only)](#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=discord_old_blurple&card_width=340&layout=compact)](https://github.com/detds/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.detds.vercel.app/api/top-langs/?username=detds&locale=pt-br&theme=discord_old_blurple&card_width=340&layout=compact)](#gh-dark-mode-only)
 
 <br>
 
