@@ -1,12 +1,12 @@
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> ! Eu sou o Dennis! 
 
- ### 🔭 Em transição de carreira
+ 🔭 Em transição de carreira!
 
- ### 🌱 Estudando desenvolvimento **backend** utilizando linguagem de programação **Java**
+ 🌱 Estudando desenvolvimento **backend** utilizando linguagem de programação **Java**!
 
- ### 🔬 **Sou curioso; gosto de aprender!**
+ 🔬 Sou curioso; gosto de aprender. Procuro estar sempre me aprofundando e evoluindo!
 
- ### 🏃 **Amante de corrida**
+ 🤖 Apaixonado por tecnologia e 🏃 corrida!
 
 <br>
 
